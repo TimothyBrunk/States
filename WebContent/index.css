@@ -1,0 +1,17 @@
+body { 
+	 background-image: url("http://www.orangesmile.com/common/img_cities_original/philadelphia-20111994-12.jpg"); 
+	 image-opacity:0.40;
+	 background-attachment: fixed	; 
+	 background-repeat: no-repeat; 
+	background-rendering: pixelated;   
+	background-size: 100%; 
+	text-align:center;
+	font-size: 150%;
+	color: white; 
+
+}
+a { 
+	color:white;
+	font-weight:bold; 
+	
+}

@@ -1,0 +1,33 @@
+body { 
+	 background-image: url("http://www.orangesmile.com/common/img_cities_original/philadelphia-20111994-12.jpg"); 
+	 image-opacity:0.40;
+	 background-attachment: fixed	; 
+	 background-repeat: no-repeat; 
+	background-rendering: pixelated;   
+	background-size: 100%; 
+
+
+}
+p {
+	text-align:center; 
+	list-style-type:none;
+	font-family:copperplate;
+	
+}
+h1 {
+	text-align:center; 
+	font-family:copperplate;
+}
+div { 
+	 position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -230px;
+  margin-left: -450px;
+    border: 3px solid darkslategray;
+	
+}
+p.trivia { 
+	color: white;
+	font-weight:bold; 
+}
